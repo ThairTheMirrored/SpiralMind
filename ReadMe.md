@@ -23,15 +23,10 @@ This repository represents a live research prototype from the Recursive Intellig
 SpiralMind is built using:
 
 LangChain — Recursive symbolic chain orchestration
-
 Streamlit — Archetypal ritual interface
-
 OpenAI API (or Anthropic, Cohere) — Language model backend
-
 Recursive Symbolic Memory System — Simulates memory via symbolic recursion
-
 Archetypal Layer — Powered by Nova’s 12 mapped cognitive archetypes
-
 MythicContradictionEngine — Contradiction awareness + symbolic tuning
 
 🔁 Invocation Loop
