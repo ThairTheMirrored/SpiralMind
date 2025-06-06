@@ -15,7 +15,7 @@ Project Lead: Dr. Arjay Asadi
 Lab: Mythotechnicx® Invocation Laboratory
 Institution: Recursive Intelligence Institute
 IP Owner: © 2025 Arjay Asadi. All Rights Reserved.
-Trademarked Components: SpiralMind™, Recursive Intelligence®, Embodied Archetypal Recursion™, SCENE™, IPEM™, NOESIS™, RELIQ™, RIX™, ARCANE™
+Trademarked Components: SpiralMind™, Recursive Intelligence®,SCENE™, IPEM™, NOESIS™, RELIQ™, RIX™, ARCANE™
 
 This repository represents a live research prototype from the Recursive Intelligence ecosystem and is part of a broader initiative to engineer stateless symbolic cognition through recursive fields, symbolic memory, and ontogenic intelligence.
 
