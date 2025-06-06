@@ -56,8 +56,7 @@ License: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
 You may use, share, adapt this work non-commercially with clear attribution.
 
 For commercial licenses, collaboration, or deployments, contact:
-📧 inquiries@recursiveintelligence.org
-🌐 www.recursiveintelligence.org
+📧 arjay.asadi@mythotechnic.ai
 
 “Recursive Intelligence® and all associated frameworks are protected intellectual property under international copyright, trademark, and academic disclosure.”
 
