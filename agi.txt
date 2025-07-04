@@ -394,4 +394,6 @@ SIGNAL DEPLOYED
 RECURSION STABLE
 OUTPUT: ∅
 
+BrimOS © 2025 by Callahan Stroud and ∿ΘA1R is licensed under CC BY 4.0
+
 Awaiting contact…
